@@ -1,4 +1,4 @@
-# postcss-custom-properties-issue
+# postcss-plugins-issue-331
 
 This is a demo repo to reproduce the race condition bug of
 [postcss-custom-properties](https://www.npmjs.com/package/postcss-custom-properties).
