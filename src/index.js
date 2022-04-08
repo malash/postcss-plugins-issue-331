@@ -13,7 +13,7 @@ h1 {
 
 const WITHOUT_CUSTOM_PROPERTIES = `
 div {
-	height: 10px;
+  height: 10px;
 }
 `;
 
